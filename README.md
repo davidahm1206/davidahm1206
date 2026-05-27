@@ -57,8 +57,6 @@ Futuristic Control-Center UI mit Animationen und Widgets.
 
 ---
 
-## 📫 Contact
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidahm1206&style=for-the-badge"/>
 </p>
