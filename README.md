@@ -45,12 +45,12 @@ Frontend Developer · UI Engineer · React Focused
 
 <a href="https://bioscope.website" target="_blank">
   <img src="https://raw.githubusercontent.com/davidahm1206/davidahm1206/main/bioscope-original.png"
-       width="84" height="84" />
+       width="100" height="100" />
 </a>
 
 <a href="https://spazone.beauty" target="_blank">
   <img src="https://raw.githubusercontent.com/davidahm1206/davidahm1206/main/SPAZONE%20BEAUTY%20%26%20ASTHETIC%202.jpg"
-       width="84" height="84" />
+       width="100" height="100" />
 </a>
 
 </p>
