@@ -39,18 +39,18 @@ Frontend Developer · UI Engineer · React Focused
 
 ## 🚀 Projects
 
-### 🟣 Best Project (private)
+### ⭐ Best Projects (private)
 
 <p align="left">
   <a href="https://bioscope.website" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=bioscope.website" width="20" height="20" />
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=bioscope.website" width="28" height="28" />
     bioscope.website
   </a>
 </p>
 
 <p align="left">
   <a href="https://spazone.beauty" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=spazone.beauty" width="20" height="20" />
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=spazone.beauty" width="28" height="28" />
     spazone.beauty
   </a>
 </p>
