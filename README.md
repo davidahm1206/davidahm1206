@@ -44,8 +44,8 @@ Frontend Developer · UI Engineer · React Focused
 <p align="center">
 
 <a href="https://bioscope.website" target="_blank">
-  <img src="https://www.google.com/s2/favicons?sz=192&domain=bioscope.website"
-       width="84" height="84" style="margin-right:20px;" />
+  <img src="https://raw.githubusercontent.com/davidahm1206/PulseGrid/main/bioscope-original.png"
+       width="84" height="84" />
 </a>
 
 <a href="https://spazone.beauty" target="_blank">
