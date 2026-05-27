@@ -39,11 +39,53 @@ Frontend Developer · UI Engineer · React Focused
 
 ## 🚀 Projects
 
-### 🔷 PulseGrid
-Dashboard UI System mit Grid- und Node-basiertem Layout.
+### 🟣 Best Project (private)
 
-### 🔷 NeonDock
-Futuristic Control-Center UI mit Animationen und Widgets.
+<p align="left">
+  <a href="https://bioscope.website" target="_blank">
+    <img src="https://www.google.com/s2/favicons?sz=64&domain=bioscope.website" width="20" height="20" />
+    bioscope.website
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://spazone.beauty" target="_blank">
+    <img src="https://www.google.com/s2/favicons?sz=64&domain=spazone.beauty" width="20" height="20" />
+    spazone.beauty
+  </a>
+</p>
+
+---
+
+### 🧩 Other Projects
+
+<p align="left">
+  <a href="https://davidahm1206.github.io/DemoProjects/" target="_blank">
+    Demo Projects
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://supertictactoe-c1r.pages.dev/" target="_blank">
+    Super Tic Tac Toe
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://davidahm1206.github.io/PulseGrid/" target="_blank">
+    PulseGrid
+  </a>
+</p>
+
+---
+
+### 🛠️ In Development
+
+<p align="left">
+  <a href="https://github.com/davidahm1206/Minecraft-Server-Management" target="_blank">
+    Minecraft Server Management
+  </a>
+</p>
 
 ---
 
