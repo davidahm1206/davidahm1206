@@ -41,18 +41,18 @@ Frontend Developer · UI Engineer · React Focused
 
 ### ⭐ Best Projects (private)
 
-<p align="left">
-  <a href="https://bioscope.website" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=128&domain=bioscope.website" width="28" height="28" />
-    bioscope.website
-  </a>
-</p>
+<p align="center">
 
-<p align="left">
-  <a href="https://spazone.beauty" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=128&domain=spazone.beauty" width="28" height="28" />
-    spazone.beauty
-  </a>
+<a href="https://bioscope.website" target="_blank">
+  <img src="https://www.google.com/s2/favicons?sz=192&domain=bioscope.website"
+       width="84" height="84" style="margin-right:20px;" />
+</a>
+
+<a href="https://spazone.beauty" target="_blank">
+  <img src="https://raw.githubusercontent.com/davidahm1206/PulseGrid/main/SPAZONE%20BEAUTY%20%26%20ASTHETIC%202.jpg"
+       width="84" height="84" />
+</a>
+
 </p>
 
 ---
