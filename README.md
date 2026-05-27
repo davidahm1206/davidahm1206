@@ -53,7 +53,7 @@ Futuristic control-center inspired frontend concept.
 
 ## 📊 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidahm1206&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidahm1206&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
